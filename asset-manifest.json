@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-ujwalportfolio/static/css/main.45ebecbc.css",
+    "main.js": "/react-ujwalportfolio/static/js/main.29c188af.js",
+    "static/js/787.8e1c20b0.chunk.js": "/react-ujwalportfolio/static/js/787.8e1c20b0.chunk.js",
+    "static/media/umusic.png": "/react-ujwalportfolio/static/media/umusic.d18718706ed7a1e95447.png",
+    "static/media/home-main.svg": "/react-ujwalportfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/react-ujwalportfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/p44.png": "/react-ujwalportfolio/static/media/p44.042d03abf262a79e3e4d.png",
+    "static/media/remuneration.png": "/react-ujwalportfolio/static/media/remuneration.97216199146a702e23d5.png",
+    "static/media/ujwalCV.pdf": "/react-ujwalportfolio/static/media/ujwalCV.06c81e810bbc3915eb8b.pdf",
+    "static/media/home-bg.jpg": "/react-ujwalportfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/react-ujwalportfolio/static/media/logo.aea810112253ab1e93b5.png",
+    "static/media/pre.svg": "/react-ujwalportfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/react-ujwalportfolio/index.html",
+    "main.45ebecbc.css.map": "/react-ujwalportfolio/static/css/main.45ebecbc.css.map",
+    "main.29c188af.js.map": "/react-ujwalportfolio/static/js/main.29c188af.js.map",
+    "787.8e1c20b0.chunk.js.map": "/react-ujwalportfolio/static/js/787.8e1c20b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45ebecbc.css",
+    "static/js/main.29c188af.js"
+  ]
+}
