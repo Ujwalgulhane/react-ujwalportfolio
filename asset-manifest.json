@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-ujwalportfolio/static/css/main.45ebecbc.css",
-    "main.js": "/react-ujwalportfolio/static/js/main.3f084cad.js",
+    "main.js": "/react-ujwalportfolio/static/js/main.e387f916.js",
     "static/js/787.8e1c20b0.chunk.js": "/react-ujwalportfolio/static/js/787.8e1c20b0.chunk.js",
     "static/media/umusic.png": "/react-ujwalportfolio/static/media/umusic.d18718706ed7a1e95447.png",
     "static/media/home-main.svg": "/react-ujwalportfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
@@ -15,11 +15,11 @@
     "static/media/pre.svg": "/react-ujwalportfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/react-ujwalportfolio/index.html",
     "main.45ebecbc.css.map": "/react-ujwalportfolio/static/css/main.45ebecbc.css.map",
-    "main.3f084cad.js.map": "/react-ujwalportfolio/static/js/main.3f084cad.js.map",
+    "main.e387f916.js.map": "/react-ujwalportfolio/static/js/main.e387f916.js.map",
     "787.8e1c20b0.chunk.js.map": "/react-ujwalportfolio/static/js/787.8e1c20b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.45ebecbc.css",
-    "static/js/main.3f084cad.js"
+    "static/js/main.e387f916.js"
   ]
 }
