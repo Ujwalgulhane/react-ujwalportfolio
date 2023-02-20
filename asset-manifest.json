@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/react-ujwalportfolio/static/css/main.45ebecbc.css",
-    "main.js": "/react-ujwalportfolio/static/js/main.8de0fdaa.js",
+    "main.js": "/react-ujwalportfolio/static/js/main.3f084cad.js",
     "static/js/787.8e1c20b0.chunk.js": "/react-ujwalportfolio/static/js/787.8e1c20b0.chunk.js",
     "static/media/umusic.png": "/react-ujwalportfolio/static/media/umusic.d18718706ed7a1e95447.png",
     "static/media/home-main.svg": "/react-ujwalportfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/react-ujwalportfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/remuneration.png": "/react-ujwalportfolio/static/media/remuneration.9beefbc5e2e1377ca627.png",
     "static/media/fixco_desktop.png": "/react-ujwalportfolio/static/media/fixco_desktop.446244f2709f50995f11.png",
-    "static/media/p11_full_pic.png": "/react-ujwalportfolio/static/media/p11_full_pic.5e5ff4be2c0ff6f74910.png",
-    "static/media/ujwalCV.pdf": "/react-ujwalportfolio/static/media/ujwalCV.06c81e810bbc3915eb8b.pdf",
+    "static/media/p33_beard.png": "/react-ujwalportfolio/static/media/p33_beard.80b148bb4178a3e823dc.png",
+    "static/media/ujwalCV.pdf": "/react-ujwalportfolio/static/media/ujwalCV.c383fdb12d9a249d5c5b.pdf",
     "static/media/home-bg.jpg": "/react-ujwalportfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/logo.png": "/react-ujwalportfolio/static/media/logo.aea810112253ab1e93b5.png",
     "static/media/pre.svg": "/react-ujwalportfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/react-ujwalportfolio/index.html",
     "main.45ebecbc.css.map": "/react-ujwalportfolio/static/css/main.45ebecbc.css.map",
-    "main.8de0fdaa.js.map": "/react-ujwalportfolio/static/js/main.8de0fdaa.js.map",
+    "main.3f084cad.js.map": "/react-ujwalportfolio/static/js/main.3f084cad.js.map",
     "787.8e1c20b0.chunk.js.map": "/react-ujwalportfolio/static/js/787.8e1c20b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.45ebecbc.css",
-    "static/js/main.8de0fdaa.js"
+    "static/js/main.3f084cad.js"
   ]
 }
